@@ -1,2 +1,2 @@
-# estudos-dio
-Estudos dentro da plataforma da DIO
+# Repositório Para Estudos da DIO
+Desáfio de Projeto Git/GitHub
