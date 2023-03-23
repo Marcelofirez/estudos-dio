@@ -1,6 +1,7 @@
 # Repositório Para Estudos da DIO
 Desáfio de Projeto Git/GitHub.
 
-##Link para a plataforma de estudos
-
+##Links:
+[Git](https://git-scm.com/downloads)
 [DIO](https://www.dio.me)
+[MD](https://www.markdownguide.org/basic-syntax/)
