@@ -1,0 +1,6 @@
+cd (navegar entre pastas)
+ls (listar  as pastas)
+mkdir (criar uma pasta)
+rm (exclui arquivos)
+mv (move arquivos e pastas)
+cat (abre um arquivo)

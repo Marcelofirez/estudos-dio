@@ -1,0 +1,2 @@
+Git foi criado em 2005, pelo Linus Torwalds (criador do Linux), para assim poder versionar os códigos, ou seja, criar diferentes versões de códigos dentro de um mesmo projeto.
+Tendo assim um melhor controle do que se está sendo feito dentro dos códigos de um proejto e podendo melhora-lo se necessário, trabalhando em equipe.

@@ -1,0 +1,17 @@
+Antes de tudo, precisamos saber para que os comandos servem, e por que eles existem.
+
+Agora explicarei o motivo dos comandos existirem, e é bem simples:
+
+Basicamente, existem dois tipos de forma para dar instruções ao computador, sendo elas usando o GUI ou CLI. 
+GUI (Interface gráfica do utilizador) é uma interface onde o usuário pode utilizar de elementos gráficos, como ícones e indicadores visuais.
+Já a CLI, ou Command-Line Interface (Interface gráfica do utilizador) é uma forma de interagir com programas que recebem instruções a partir de linhas de comando.
+
+Mas afinal, o que o Git Utiliza?
+O Git, se você se ligou ao nome da pasta, entendeu que ele utiliza o CLI, ou seja, ele responde por comandos escritos.
+
+OBS: Estes códigos desta pasta tanto do Windows tanto para Linux são utilizados em TERMNAIS BÁSICOS de cada sistema operacional.
+Caso queira encontrar códigos de ambos:
+
+linux: https://linux.ime.usp.br/~lucasmmg/livecd/documentacao/documentos/terminal/Terminal_basico.html
+windows: https://www.uniaogeek.com.br/guia-de-comandos-cmd-terminal-do-windows/
+

@@ -1,0 +1,8 @@
+dir (usado para mostrar as pastas que existem em tal local)
+cd (usado para entrar em alguma pasta)
+cd .. (usado para voltar)
+cls (limpar o terminal)
+mkdir (criar uma pasta)
+echo (criar um arquivo dentro de uma pasta)
+del (deletar apenas arquivos)
+rmdir (deletar pastas)

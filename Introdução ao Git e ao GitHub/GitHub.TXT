@@ -1,0 +1,1 @@
+GitHub foi criado com o intuíto de armazenar estes códigos em núvem, possibilitando assim que duas pessoas, por exemplo, possam contribuir no projeto, mesmo que em diferentes lugares do mundo.
